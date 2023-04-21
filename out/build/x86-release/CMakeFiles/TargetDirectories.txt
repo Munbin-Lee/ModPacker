@@ -1,0 +1,5 @@
+C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/CMakeFiles/edit_cache.dir
+C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/CMakeFiles/rebuild_cache.dir
+C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/ModPacker/CMakeFiles/ModPacker.dir
+C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/ModPacker/CMakeFiles/edit_cache.dir
+C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/ModPacker/CMakeFiles/rebuild_cache.dir
