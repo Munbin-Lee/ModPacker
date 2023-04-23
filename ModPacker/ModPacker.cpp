@@ -248,10 +248,13 @@ void modpack(string mypath, string outpath) {
 	fout.close();
 }
 
-int main() {
-	cout << "Input Path to .mod or Directory and Press Enter...\n";
+int main(int argc, char** argv) {
 	string mypath, outpath;
-	getline(cin, mypath);
+	if (argc >= 2) mypath = argv[1];
+	else {
+		cout << "Input Path to .mod or Directory and Press Enter...\n";
+		getline(cin, mypath);
+	}
 
 	int ext = extensioncheck(mypath, outpath);
 	if (!ext) {
