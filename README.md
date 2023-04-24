@@ -12,7 +12,7 @@ MapleStory Wolrds .mod file packing/unpacking tools
 - Valid packing with scripts written in different worlds.  
 - 각기 다른 월드에서 작성된 스크립트들을 합쳤을 때 유효하게 패킹됩니다.
 
-# Quick Quide
+# Quick Guide
 1. Clone the repo.
 2. Execute "out/build/x86-release/ModPacker/ModPacker.exe".
 3. Input .mod file path or directory path contains vaild sources.
