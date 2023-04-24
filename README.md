@@ -34,7 +34,7 @@ Thanks to Munbin-Lee:
 - 아직 깃과 함께 사용했을 때의 상황에 대해 어떨지 모릅니다.
 
 - When you are packing, files about directory path in "directory" folder is not necessary, you can sucessfully import packed file.  
-- 패킹 시에 "dirextory" 폴더에 포함된 경로 관련 파일은 필수적이지 않습니다. 그렇게 패킹해도 정상적으로 임포트 됩니다.
+- 패킹 시에 "directory" 폴더에 포함된 경로 관련 파일은 필수적이지 않습니다. 그렇게 패킹해도 정상적으로 임포트 됩니다.
 
 # Contact
 rokja97@naver.com
