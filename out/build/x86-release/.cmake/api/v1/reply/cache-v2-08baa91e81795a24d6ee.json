@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/rokja/source/repos/ModPacker/out/build/x86-release"
+			"value" : "c:/Users/MB/Documents/Github/ModPacker/out/build/x86-release"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/MB/Documents/Github/ModPacker/out/build/x86-release/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/rokja/source/repos/ModPacker"
+			"value" : "C:/Users/MB/Documents/Github/ModPacker"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/rokja/source/repos/ModPacker/out/install/x86-release"
+			"value" : "C:/Users/MB/Documents/Github/ModPacker/out/install/x86-release"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -663,7 +663,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/mt.exe"
+			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22000.0/x64/mt.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -751,7 +751,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/rc.exe"
+			"value" : "C:/Program Files (x86)/Windows Kits/10/bin/10.0.22000.0/x64/rc.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1075,7 +1075,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/rokja/source/repos/ModPacker/out/build/x86-release"
+			"value" : "C:/Users/MB/Documents/Github/ModPacker/out/build/x86-release"
 		},
 		{
 			"name" : "ModPacker_IS_TOP_LEVEL",
@@ -1099,7 +1099,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/rokja/source/repos/ModPacker"
+			"value" : "C:/Users/MB/Documents/Github/ModPacker"
 		}
 	],
 	"kind" : "cache",

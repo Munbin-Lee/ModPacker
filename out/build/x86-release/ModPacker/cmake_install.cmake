@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/rokja/source/repos/ModPacker/ModPacker
+# Install script for directory: C:/Users/MB/Documents/Github/ModPacker/ModPacker
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/rokja/source/repos/ModPacker/out/install/x86-release")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/MB/Documents/Github/ModPacker/out/install/x86-release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

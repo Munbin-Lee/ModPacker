@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/rokja/source/repos/ModPacker
+# Install script for directory: C:/Users/MB/Documents/Github/ModPacker
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/rokja/source/repos/ModPacker/out/install/x86-release")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/MB/Documents/Github/ModPacker/out/install/x86-release")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/ModPacker/cmake_install.cmake")
+  include("C:/Users/MB/Documents/Github/ModPacker/out/build/x86-release/ModPacker/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/rokja/source/repos/ModPacker/out/build/x86-release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/MB/Documents/Github/ModPacker/out/build/x86-release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
