@@ -25,6 +25,7 @@ MapleStory Wolrds .mod file packing/unpacking tools
 ---
 **04/04/23**
 
+Thanks to Munbin-Lee:
 - You can drag-and-drop your .mod file or workspace directory to ModPacker.exe to pack/unpack.  
 - ModPacker.exe 에 .mod 파일이나 워크스페이스 폴더를 드래그 앤 드롭 하는 것으로도 패킹/언패킹을 할 수 있습니다.
 
