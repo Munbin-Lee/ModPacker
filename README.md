@@ -1,16 +1,16 @@
 # ModPacker
 MapleStory Wolrds .mod file packing/unpacking tools  
-¸ŞÀÌÇÃ½ºÅä¸® ¿ùµå .mod ÆÄÀÏ ÆĞÅ·/¾ğÆĞÅ· µµ±¸
+ë©”ì´í”ŒìŠ¤í† ë¦¬ ì›”ë“œ .mod íŒŒì¼ íŒ¨í‚¹/ì–¸íŒ¨í‚¹ ë„êµ¬
 
-# Feaatures
+# Features
 - Unpack .mod file to distinct .txt files.  
-- .mod ÆÄÀÏÀ» °¢°¢ÀÇ °íÀ¯ÇÑ .txt ÆÄÀÏµé·Î ¾ğÆĞÅ·ÇÕ´Ï´Ù.
+- .mod íŒŒì¼ì„ ê°ê°ì˜ ê³ ìœ í•œ .txt íŒŒì¼ë“¤ë¡œ ì–¸íŒ¨í‚¹í•©ë‹ˆë‹¤.
 
 - Repack unfolded .txt files to .mod file.  
-- ¾ğÆĞÅ·µÈ .txt ÆÄÀÏµé·ÎºÎÅÍ .mod ÆÄÀÏÀ» ÆĞÅ·ÇÕ´Ï´Ù.
+- ì–¸íŒ¨í‚¹ëœ .txt íŒŒì¼ë“¤ë¡œë¶€í„° .mod íŒŒì¼ì„ íŒ¨í‚¹í•©ë‹ˆë‹¤.
 
 - Valid packing with scripts written in different worlds.  
-- °¢±â ´Ù¸¥ ¿ùµå¿¡¼­ ÀÛ¼ºµÈ ½ºÅ©¸³Æ®µéÀ» ÇÕÃÆÀ» ¶§ À¯È¿ÇÏ°Ô ÆĞÅ·µË´Ï´Ù.
+- ê°ê¸° ë‹¤ë¥¸ ì›”ë“œì—ì„œ ì‘ì„±ëœ ìŠ¤í¬ë¦½íŠ¸ë“¤ì„ í•©ì³¤ì„ ë•Œ ìœ íš¨í•˜ê²Œ íŒ¨í‚¹ë©ë‹ˆë‹¤.
 
 # Quick Quide
 1. Clone the repo.
@@ -18,22 +18,22 @@ MapleStory Wolrds .mod file packing/unpacking tools
 3. Input .mod file path or directory path contains vaild sources.
 4. Done.
 ---
-1. ¸®Æ÷ÁöÅä¸®¸¦ º¹Á¦ÇÕ´Ï´Ù.
-2. "out/build/x86-release/ModPacker/ModPacker.exe"¸¦ ½ÇÇàÇÕ´Ï´Ù.
-3. .mod³ª À¯È¿ÇÑ ÆÄÀÏµéÀ» Æ÷ÇÔÇÏ´Â µğ·ºÅä¸® °æ·Î¸¦ ÀÔ·ÂÇÕ´Ï´Ù.
-4. ³¡.
+1. ë¦¬í¬ì§€í† ë¦¬ë¥¼ ë³µì œí•©ë‹ˆë‹¤.
+2. "out/build/x86-release/ModPacker/ModPacker.exe"ë¥¼ ì‹¤í–‰í•©ë‹ˆë‹¤.
+3. .modë‚˜ ìœ íš¨í•œ íŒŒì¼ë“¤ì„ í¬í•¨í•˜ëŠ” ë””ë ‰í† ë¦¬ ê²½ë¡œë¥¼ ì…ë ¥í•©ë‹ˆë‹¤.
+4. ë.
 ---
 **04/04/23**
 
 - You can drag-and-drop your .mod file or workspace directory to ModPacker.exe to pack/unpack.  
-- ModPacker.exe ¿¡ .mod ÆÄÀÏÀÌ³ª ¿öÅ©½ºÆäÀÌ½º Æú´õ¸¦ µå·¡±× ¾Ø µå·Ó ÇÏ´Â °ÍÀ¸·Îµµ ÆĞÅ·/¾ğÆĞÅ·À» ÇÒ ¼ö ÀÖ½À´Ï´Ù.
+- ModPacker.exe ì— .mod íŒŒì¼ì´ë‚˜ ì›Œí¬ìŠ¤í˜ì´ìŠ¤ í´ë”ë¥¼ ë“œë˜ê·¸ ì•¤ ë“œë¡­ í•˜ëŠ” ê²ƒìœ¼ë¡œë„ íŒ¨í‚¹/ì–¸íŒ¨í‚¹ì„ í•  ìˆ˜ ìˆìŠµë‹ˆë‹¤.
 
 # Caution
 - Not sure if its ok with git.  
-- ¾ÆÁ÷ ±ê°ú ÇÔ²² »ç¿ëÇßÀ» ¶§ÀÇ »óÈ²¿¡ ´ëÇØ ¾î¶³Áö ¸ğ¸¨´Ï´Ù.
+- ì•„ì§ ê¹ƒê³¼ í•¨ê»˜ ì‚¬ìš©í–ˆì„ ë•Œì˜ ìƒí™©ì— ëŒ€í•´ ì–´ë–¨ì§€ ëª¨ë¦…ë‹ˆë‹¤.
 
 - When you are packing, files about directory path in "directory" folder is not necessary, you can sucessfully import packed file.  
-- ÆĞÅ· ½Ã¿¡ "dirextory" Æú´õ¿¡ Æ÷ÇÔµÈ °æ·Î °ü·Ã ÆÄÀÏÀº ÇÊ¼öÀûÀÌÁö ¾Ê½À´Ï´Ù. ±×·¸°Ô ÆĞÅ·ÇØµµ Á¤»óÀûÀ¸·Î ÀÓÆ÷Æ® µË´Ï´Ù.
+- íŒ¨í‚¹ ì‹œì— "dirextory" í´ë”ì— í¬í•¨ëœ ê²½ë¡œ ê´€ë ¨ íŒŒì¼ì€ í•„ìˆ˜ì ì´ì§€ ì•ŠìŠµë‹ˆë‹¤. ê·¸ë ‡ê²Œ íŒ¨í‚¹í•´ë„ ì •ìƒì ìœ¼ë¡œ ì„í¬íŠ¸ ë©ë‹ˆë‹¤.
 
 # Contact
 rokja97@naver.com
