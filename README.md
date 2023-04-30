@@ -1,5 +1,5 @@
 # ModPacker
-MapleStory Wolrds .mod file packing/unpacking tools  
+MapleStory Worlds .mod file packing/unpacking tools  
 메이플스토리 월드 .mod 파일 패킹/언패킹 도구
 
 # Features
